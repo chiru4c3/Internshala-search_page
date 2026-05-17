@@ -382,4 +382,3 @@ For issues, questions, or suggestions, please open an issue in the repository or
 ---
 
 **Built with ❤️ using React, Material-UI, and Vite**
-# Internshala-search_page
