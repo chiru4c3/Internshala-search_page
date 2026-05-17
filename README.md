@@ -13,7 +13,7 @@ A modern, professional internship search interface built with React, Material-UI
 
 Internshala Search Platform is a production-ready internship discovery application designed with modern UX principles. It combines powerful filtering capabilities with intuitive search functionality, allowing users to discover internships effortlessly.
 
-**Live Demo:** http://localhost:5174/
+**Live Demo:** https://internshala-search-page-c1m2.vercel.app/
 
 ---
 
